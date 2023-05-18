@@ -8,7 +8,7 @@ $$
 \end{array}
 $$
 Before solving this problem, we make the following assumptions:
-\begin{enmuerate}
+\begin{enuerate}
 \item All data are integral (if there exists the rational numbers, it could be convert to integeral by multiply);
 \item The network is directed (if it is undirected, we could construct the corresponding directed arc $(i,j),(j,i)$ );
 \item \sum\limits_{i\in N} b_i =0
